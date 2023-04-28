@@ -1,6 +1,6 @@
 # workspaceboard api :fire: :fire:  :koala:
 
-* **A simple api that provides functionalitety to create a Scrumbord / kanbanboard data structure **
+A simple api that provides functionalitety to create a Scrumbord / kanbanboard data structure 
 
 ### Before u can run the application, you will need to setup mysql local-db
 * ** See SQL folder in project folder for sql script **
@@ -13,4 +13,3 @@
 - enter the following command to run the api service.
 `go run main.go`
 
-* ** Congratz the api is now being served on port : 9000 ** 
